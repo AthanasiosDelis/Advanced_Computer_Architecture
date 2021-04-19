@@ -1,0 +1,29 @@
+./plot_l1.sh blackscholes.dcache_cslab.L1_0032_04_064.out blackscholes.dcache_cslab.L1_0032_08_032.out blackscholes.dcache_cslab.L1_0032_08_064.out blackscholes.dcache_cslab.L1_0032_08_128.out blackscholes.dcache_cslab.L1_0064_04_064.out blackscholes.dcache_cslab.L1_0064_08_032.out blackscholes.dcache_cslab.L1_0064_08_064.out blackscholes.dcache_cslab.L1_0064_08_128.out blackscholes.dcache_cslab.L1_0128_08_032.out blackscholes.dcache_cslab.L1_0128_08_064.out blackscholes.dcache_cslab.L1_0128_08_128.out 
+
+./plot_l1.sh bodytrack.dcache_cslab.L1_0032_04_064.out bodytrack.dcache_cslab.L1_0032_08_032.out bodytrack.dcache_cslab.L1_0032_08_064.out bodytrack.dcache_cslab.L1_0032_08_128.out bodytrack.dcache_cslab.L1_0064_04_064.out bodytrack.dcache_cslab.L1_0064_08_032.out bodytrack.dcache_cslab.L1_0064_08_064.out bodytrack.dcache_cslab.L1_0064_08_128.out bodytrack.dcache_cslab.L1_0128_08_032.out bodytrack.dcache_cslab.L1_0128_08_064.out bodytrack.dcache_cslab.L1_0128_08_128.out 
+
+./plot_l1.sh canneal.dcache_cslab.L1_0032_04_064.out canneal.dcache_cslab.L1_0032_08_032.out canneal.dcache_cslab.L1_0032_08_064.out canneal.dcache_cslab.L1_0032_08_128.out canneal.dcache_cslab.L1_0064_04_064.out canneal.dcache_cslab.L1_0064_08_032.out canneal.dcache_cslab.L1_0064_08_064.out canneal.dcache_cslab.L1_0064_08_128.out canneal.dcache_cslab.L1_0128_08_032.out canneal.dcache_cslab.L1_0128_08_064.out canneal.dcache_cslab.L1_0128_08_128.out 
+
+./plot_l1.sh facesim.dcache_cslab.L1_0032_04_064.out facesim.dcache_cslab.L1_0032_08_032.out facesim.dcache_cslab.L1_0032_08_064.out facesim.dcache_cslab.L1_0032_08_128.out facesim.dcache_cslab.L1_0064_04_064.out facesim.dcache_cslab.L1_0064_08_032.out facesim.dcache_cslab.L1_0064_08_064.out facesim.dcache_cslab.L1_0064_08_128.out facesim.dcache_cslab.L1_0128_08_032.out facesim.dcache_cslab.L1_0128_08_064.out facesim.dcache_cslab.L1_0128_08_128.out 
+
+./plot_l1.sh ferret.dcache_cslab.L1_0032_04_064.out ferret.dcache_cslab.L1_0032_08_032.out ferret.dcache_cslab.L1_0032_08_064.out ferret.dcache_cslab.L1_0032_08_128.out ferret.dcache_cslab.L1_0064_04_064.out ferret.dcache_cslab.L1_0064_08_032.out ferret.dcache_cslab.L1_0064_08_064.out ferret.dcache_cslab.L1_0064_08_128.out ferret.dcache_cslab.L1_0128_08_032.out ferret.dcache_cslab.L1_0128_08_064.out ferret.dcache_cslab.L1_0128_08_128.out 
+
+./plot_l1.sh fluidanimate.dcache_cslab.L1_0032_04_064.out fluidanimate.dcache_cslab.L1_0032_08_032.out fluidanimate.dcache_cslab.L1_0032_08_064.out fluidanimate.dcache_cslab.L1_0032_08_128.out fluidanimate.dcache_cslab.L1_0064_04_064.out fluidanimate.dcache_cslab.L1_0064_08_032.out fluidanimate.dcache_cslab.L1_0064_08_064.out fluidanimate.dcache_cslab.L1_0064_08_128.out fluidanimate.dcache_cslab.L1_0128_08_032.out fluidanimate.dcache_cslab.L1_0128_08_064.out fluidanimate.dcache_cslab.L1_0128_08_128.out 
+
+./plot_l1.sh freqmine.dcache_cslab.L1_0032_04_064.out freqmine.dcache_cslab.L1_0032_08_032.out freqmine.dcache_cslab.L1_0032_08_064.out freqmine.dcache_cslab.L1_0032_08_128.out freqmine.dcache_cslab.L1_0064_04_064.out freqmine.dcache_cslab.L1_0064_08_032.out freqmine.dcache_cslab.L1_0064_08_064.out freqmine.dcache_cslab.L1_0064_08_128.out freqmine.dcache_cslab.L1_0128_08_032.out freqmine.dcache_cslab.L1_0128_08_064.out freqmine.dcache_cslab.L1_0128_08_128.out 
+
+./plot_l1.sh rtview.dcache_cslab.L1_0032_04_064.out rtview.dcache_cslab.L1_0032_08_032.out rtview.dcache_cslab.L1_0032_08_064.out rtview.dcache_cslab.L1_0032_08_128.out rtview.dcache_cslab.L1_0064_04_064.out rtview.dcache_cslab.L1_0064_08_032.out rtview.dcache_cslab.L1_0064_08_064.out rtview.dcache_cslab.L1_0064_08_128.out rtview.dcache_cslab.L1_0128_08_032.out rtview.dcache_cslab.L1_0128_08_064.out rtview.dcache_cslab.L1_0128_08_128.out 
+
+./plot_l1.sh streamcluster.dcache_cslab.L1_0032_04_064.out streamcluster.dcache_cslab.L1_0032_08_032.out streamcluster.dcache_cslab.L1_0032_08_064.out streamcluster.dcache_cslab.L1_0032_08_128.out streamcluster.dcache_cslab.L1_0064_04_064.out streamcluster.dcache_cslab.L1_0064_08_032.out streamcluster.dcache_cslab.L1_0064_08_064.out streamcluster.dcache_cslab.L1_0064_08_128.out streamcluster.dcache_cslab.L1_0128_08_032.out streamcluster.dcache_cslab.L1_0128_08_064.out streamcluster.dcache_cslab.L1_0128_08_128.out 
+
+./plot_l1.sh swaptions.dcache_cslab.L1_0032_04_064.out swaptions.dcache_cslab.L1_0032_08_032.out swaptions.dcache_cslab.L1_0032_08_064.out swaptions.dcache_cslab.L1_0032_08_128.out swaptions.dcache_cslab.L1_0064_04_064.out swaptions.dcache_cslab.L1_0064_08_032.out swaptions.dcache_cslab.L1_0064_08_064.out swaptions.dcache_cslab.L1_0064_08_128.out swaptions.dcache_cslab.L1_0128_08_032.out swaptions.dcache_cslab.L1_0128_08_064.out streamcluster.dcache_cslab.L1_0128_08_128.out 
+
+
+
+
+
+
+
+
+
+

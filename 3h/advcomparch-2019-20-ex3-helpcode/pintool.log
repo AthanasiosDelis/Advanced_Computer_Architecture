@@ -1,0 +1,5 @@
+Pin: pin-3.11-97998-7ecce2dac
+Copyright 2002-2019 Intel Corporation.
+ ERROR: Thread 0 dying after unexpected exception @icount: 3932277 PC 0x000434ca7
+
+see /home/thanasis-linux/outputs/astar/astar.DW_01-WS_128.out/pinball_replay.app0.txt for more details. Exiting...

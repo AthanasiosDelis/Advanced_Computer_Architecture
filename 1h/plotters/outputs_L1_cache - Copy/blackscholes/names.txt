@@ -1,0 +1,12 @@
+blackscholes.dcache_cslab.L1_0032_04_064.out
+blackscholes.dcache_cslab.L1_0032_08_032.out
+blackscholes.dcache_cslab.L1_0032_08_064.out
+blackscholes.dcache_cslab.L1_0032_08_128.out
+blackscholes.dcache_cslab.L1_0064_04_064.out
+blackscholes.dcache_cslab.L1_0064_08_032.out
+blackscholes.dcache_cslab.L1_0064_08_064.out
+blackscholes.dcache_cslab.L1_0064_08_128.out
+blackscholes.dcache_cslab.L1_0128_08_032.out
+blackscholes.dcache_cslab.L1_0128_08_064.out
+blackscholes.dcache_cslab.L1_0128_08_128.out 
+
